@@ -13,7 +13,7 @@ GoShell is a basic command-line shell written in Go. It replicates essential she
 - Command argument splitting and execution
 
 
-## 🔧 Usage
+## Usage
 
 1. Clone the repository or download `main.go`
 2. Run using:
