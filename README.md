@@ -12,6 +12,16 @@ GoShell is a basic command-line shell written in Go. It replicates essential she
 - Error feedback printed to `stderr`
 - Command argument splitting and execution
 
+
+## 🔧 Usage
+
+1. Clone the repository or download `main.go`
+2. Run using:
+
+```bash
+go run main.go
+```
+
 ## Learning Source
 
 This project was created as a learning exercise to understand how shells work internally using Go.  
